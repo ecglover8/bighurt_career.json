@@ -1,0 +1,803 @@
+{
+  "player": "FrankThomas",
+  "source": "Baseball Reference (http://www.baseball-reference.com/players/t/thomafr04.shtml)",
+  "notes": "month 4 contains regular season data for March and April, while month 9 contains regular season data for September and October",
+  "hits": [
+    {
+      "year": 1990,
+      "month": 4,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 1990,
+      "month": 5,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 1990,
+      "month": 6,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 1990,
+      "month": 7,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 1990,
+      "month": 8,
+      "hits": 27,
+      "HR": 2,
+      "RBI": 13
+    },
+    {
+      "year": 1990,
+      "month": 9,
+      "hits": 36,
+      "HR": 5,
+      "RBI": 18
+    },
+    {
+      "year": 1991,
+      "month": 4,
+      "hits": 20,
+      "HR": 3,
+      "RBI": 13
+    },
+    {
+      "year": 1991,
+      "month": 5,
+      "hits": 28,
+      "HR": 5,
+      "RBI": 24
+    },
+    {
+      "year": 1991,
+      "month": 6,
+      "hits": 30,
+      "HR": 5,
+      "RBI": 20
+    },
+    {
+      "year": 1991,
+      "month": 7,
+      "hits": 32,
+      "HR": 7,
+      "RBI": 15
+    },
+    {
+      "year": 1991,
+      "month": 8,
+      "hits": 41,
+      "HR": 8,
+      "RBI": 27
+    },
+    {
+      "year": 1991,
+      "month": 9,
+      "hits": 27,
+      "HR": 4,
+      "RBI": 10
+    },
+    {
+      "year": 1992,
+      "month": 4,
+      "hits": 13,
+      "HR": 1,
+      "RBI": 7
+    },
+    {
+      "year": 1992,
+      "month": 5,
+      "hits": 32,
+      "HR": 6,
+      "RBI": 22
+    },
+    {
+      "year": 1992,
+      "month": 6,
+      "hits": 31,
+      "HR": 4,
+      "RBI": 21
+    },
+    {
+      "year": 1992,
+      "month": 7,
+      "hits": 35,
+      "HR": 5,
+      "RBI": 18
+    },
+    {
+      "year": 1992,
+      "month": 8,
+      "hits": 36,
+      "HR": 6,
+      "RBI": 22
+    },
+    {
+      "year": 1992,
+      "month": 9,
+      "hits": 38,
+      "HR": 2,
+      "RBI": 25
+    },
+    {
+      "year": 1993,
+      "month": 4,
+      "hits": 21,
+      "HR": 3,
+      "RBI": 21
+    },
+    {
+      "year": 1993,
+      "month": 5,
+      "hits": 27,
+      "HR": 5,
+      "RBI": 16
+    },
+    {
+      "year": 1993,
+      "month": 6,
+      "hits": 36,
+      "HR": 8,
+      "RBI": 23
+    },
+    {
+      "year": 1993,
+      "month": 7,
+      "hits": 30,
+      "HR": 11,
+      "RBI": 25
+    },
+    {
+      "year": 1993,
+      "month": 8,
+      "hits": 34,
+      "HR": 10,
+      "RBI": 26
+    },
+    {
+      "year": 1993,
+      "month": 9,
+      "hits": 26,
+      "HR": 4,
+      "RBI": 17
+    },
+    {
+      "year": 1994,
+      "month": 4,
+      "hits": 26,
+      "HR": 8,
+      "RBI": 20
+    },
+    {
+      "year": 1994,
+      "month": 5,
+      "hits": 38,
+      "HR": 12,
+      "RBI": 28
+    },
+    {
+      "year": 1994,
+      "month": 6,
+      "hits": 35,
+      "HR": 9,
+      "RBI": 16
+    },
+    {
+      "year": 1994,
+      "month": 7,
+      "hits": 35,
+      "HR": 7,
+      "RBI": 31
+    },
+    {
+      "year": 1994,
+      "month": 8,
+      "hits": 7,
+      "HR": 2,
+      "RBI": 6
+    },
+    {
+      "year": 1994,
+      "month": 9,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 1995,
+      "month": 4,
+      "hits": 8,
+      "HR": 2,
+      "RBI": 8
+    },
+    {
+      "year": 1995,
+      "month": 5,
+      "hits": 25,
+      "HR": 6,
+      "RBI": 17
+    },
+    {
+      "year": 1995,
+      "month": 6,
+      "hits": 29,
+      "HR": 10,
+      "RBI": 21
+    },
+    {
+      "year": 1995,
+      "month": 7,
+      "hits": 35,
+      "HR": 9,
+      "RBI": 23
+    },
+    {
+      "year": 1995,
+      "month": 8,
+      "hits": 31,
+      "HR": 6,
+      "RBI": 24
+    },
+    {
+      "year": 1995,
+      "month": 9,
+      "hits": 24,
+      "HR": 7,
+      "RBI": 18
+    },
+    {
+      "year": 1996,
+      "month": 4,
+      "hits": 36,
+      "HR": 9,
+      "RBI": 25
+    },
+    {
+      "year": 1996,
+      "month": 5,
+      "hits": 30,
+      "HR": 6,
+      "RBI": 29
+    },
+    {
+      "year": 1996,
+      "month": 6,
+      "hits": 39,
+      "HR": 7,
+      "RBI": 26
+    },
+    {
+      "year": 1996,
+      "month": 7,
+      "hits": 13,
+      "HR": 1,
+      "RBI": 6
+    },
+    {
+      "year": 1996,
+      "month": 8,
+      "hits": 36,
+      "HR": 6,
+      "RBI": 24
+    },
+    {
+      "year": 1996,
+      "month": 9,
+      "hits": 30,
+      "HR": 11,
+      "RBI": 24
+    },
+    {
+      "year": 1997,
+      "month": 4,
+      "hits": 29,
+      "HR": 2,
+      "RBI": 15
+    },
+    {
+      "year": 1997,
+      "month": 5,
+      "hits": 37,
+      "HR": 9,
+      "RBI": 29
+    },
+    {
+      "year": 1997,
+      "month": 6,
+      "hits": 23,
+      "HR": 5,
+      "RBI": 16
+    },
+    {
+      "year": 1997,
+      "month": 7,
+      "hits": 34,
+      "HR": 9,
+      "RBI": 31
+    },
+    {
+      "year": 1997,
+      "month": 8,
+      "hits": 33,
+      "HR": 5,
+      "RBI": 15
+    },
+    {
+      "year": 1997,
+      "month": 9,
+      "hits": 28,
+      "HR": 5,
+      "RBI": 19
+    },
+    {
+      "year": 1998,
+      "month": 4,
+      "hits": 26,
+      "HR": 5,
+      "RBI": 20
+    },
+    {
+      "year": 1998,
+      "month": 5,
+      "hits": 30,
+      "HR": 4,
+      "RBI": 20
+    },
+    {
+      "year": 1998,
+      "month": 6,
+      "hits": 25,
+      "HR": 5,
+      "RBI": 14
+    },
+    {
+      "year": 1998,
+      "month": 7,
+      "hits": 19,
+      "HR": 4,
+      "RBI": 15
+    },
+    {
+      "year": 1998,
+      "month": 8,
+      "hits": 26,
+      "HR": 7,
+      "RBI": 19
+    },
+    {
+      "year": 1998,
+      "month": 9,
+      "hits": 29,
+      "HR": 4,
+      "RBI": 21
+    },
+    {
+      "year": 1999,
+      "month": 4,
+      "hits": 24,
+      "HR": 3,
+      "RBI": 15
+    },
+    {
+      "year": 1999,
+      "month": 5,
+      "hits": 30,
+      "HR": 2,
+      "RBI": 15
+    },
+    {
+      "year": 1999,
+      "month": 6,
+      "hits": 37,
+      "HR": 6,
+      "RBI": 21
+    },
+    {
+      "year": 1999,
+      "month": 7,
+      "hits": 28,
+      "HR": 2,
+      "RBI": 14
+    },
+    {
+      "year": 1999,
+      "month": 8,
+      "hits": 28,
+      "HR": 2,
+      "RBI": 12
+    },
+    {
+      "year": 1999,
+      "month": 9,
+      "hits": 1,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 2000,
+      "month": 4,
+      "hits": 33,
+      "HR": 5,
+      "RBI": 21
+    },
+    {
+      "year": 2000,
+      "month": 5,
+      "hits": 28,
+      "HR": 5,
+      "RBI": 18
+    },
+    {
+      "year": 2000,
+      "month": 6,
+      "hits": 32,
+      "HR": 12,
+      "RBI": 28
+    },
+    {
+      "year": 2000,
+      "month": 7,
+      "hits": 33,
+      "HR": 7,
+      "RBI": 24
+    },
+    {
+      "year": 2000,
+      "month": 8,
+      "hits": 34,
+      "HR": 9,
+      "RBI": 30
+    },
+    {
+      "year": 2000,
+      "month": 9,
+      "hits": 31,
+      "HR": 5,
+      "RBI": 22
+    },
+    {
+      "year": 2001,
+      "month": 4,
+      "hits": 15,
+      "HR": 4,
+      "RBI": 10
+    },
+    {
+      "year": 2001,
+      "month": 5,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 2001,
+      "month": 6,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 2001,
+      "month": 7,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 2001,
+      "month": 8,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 2001,
+      "month": 9,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 2002,
+      "month": 4,
+      "hits": 26,
+      "HR": 4,
+      "RBI": 19
+    },
+    {
+      "year": 2002,
+      "month": 5,
+      "hits": 26,
+      "HR": 7,
+      "RBI": 22
+    },
+    {
+      "year": 2002,
+      "month": 6,
+      "hits": 18,
+      "HR": 3,
+      "RBI": 13
+    },
+    {
+      "year": 2002,
+      "month": 7,
+      "hits": 19,
+      "HR": 3,
+      "RBI": 9
+    },
+    {
+      "year": 2002,
+      "month": 8,
+      "hits": 15,
+      "HR": 5,
+      "RBI": 11
+    },
+    {
+      "year": 2002,
+      "month": 9,
+      "hits": 28,
+      "HR": 6,
+      "RBI": 18
+    },
+    {
+      "year": 2003,
+      "month": 4,
+      "hits": 19,
+      "HR": 5,
+      "RBI": 9
+    },
+    {
+      "year": 2003,
+      "month": 5,
+      "hits": 24,
+      "HR": 5,
+      "RBI": 13
+    },
+    {
+      "year": 2003,
+      "month": 6,
+      "hits": 29,
+      "HR": 7,
+      "RBI": 17
+    },
+    {
+      "year": 2003,
+      "month": 7,
+      "hits": 25,
+      "HR": 8,
+      "RBI": 20
+    },
+    {
+      "year": 2003,
+      "month": 8,
+      "hits": 26,
+      "HR": 13,
+      "RBI": 31
+    },
+    {
+      "year": 2003,
+      "month": 9,
+      "hits": 23,
+      "HR": 4,
+      "RBI": 15
+    },
+    {
+      "year": 2004,
+      "month": 4,
+      "hits": 17,
+      "HR": 4,
+      "RBI": 9
+    },
+    {
+      "year": 2004,
+      "month": 5,
+      "hits": 27,
+      "HR": 6,
+      "RBI": 20
+    },
+    {
+      "year": 2004,
+      "month": 6,
+      "hits": 21,
+      "HR": 8,
+      "RBI": 20
+    },
+    {
+      "year": 2004,
+      "month": 7,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 2004,
+      "month": 8,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 2004,
+      "month": 9,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 2005,
+      "month": 4,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 2005,
+      "month": 5,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 2005,
+      "month": 6,
+      "hits": 12,
+      "HR": 8,
+      "RBI": 13
+    },
+    {
+      "year": 2005,
+      "month": 7,
+      "hits": 11,
+      "HR": 4,
+      "RBI": 13
+    },
+    {
+      "year": 2005,
+      "month": 8,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 2005,
+      "month": 9,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 2006,
+      "month": 4,
+      "hits": 15,
+      "HR": 5,
+      "RBI": 11
+    },
+    {
+      "year": 2006,
+      "month": 5,
+      "hits": 19,
+      "HR": 6,
+      "RBI": 17
+    },
+    {
+      "year": 2006,
+      "month": 6,
+      "hits": 10,
+      "HR": 5,
+      "RBI": 11
+    },
+    {
+      "year": 2006,
+      "month": 7,
+      "hits": 24,
+      "HR": 7,
+      "RBI": 20
+    },
+    {
+      "year": 2006,
+      "month": 8,
+      "hits": 31,
+      "HR": 5,
+      "RBI": 20
+    },
+    {
+      "year": 2006,
+      "month": 9,
+      "hits": 27,
+      "HR": 11,
+      "RBI": 35
+    },
+    {
+      "year": 2007,
+      "month": 4,
+      "hits": 23,
+      "HR": 4,
+      "RBI": 13
+    },
+    {
+      "year": 2007,
+      "month": 5,
+      "hits": 16,
+      "HR": 4,
+      "RBI": 9
+    },
+    {
+      "year": 2007,
+      "month": 6,
+      "hits": 22,
+      "HR": 5,
+      "RBI": 18
+    },
+    {
+      "year": 2007,
+      "month": 7,
+      "hits": 24,
+      "HR": 3,
+      "RBI": 14
+    },
+    {
+      "year": 2007,
+      "month": 8,
+      "hits": 31,
+      "HR": 5,
+      "RBI": 26
+    },
+    {
+      "year": 2007,
+      "month": 9,
+      "hits": 31,
+      "HR": 5,
+      "RBI": 15
+    },
+    {
+      "year": 2008,
+      "month": 4,
+      "hits": 15,
+      "HR": 3,
+      "RBI": 14
+    },
+    {
+      "year": 2008,
+      "month": 5,
+      "hits": 24,
+      "HR": 4,
+      "RBI": 13
+    },
+    {
+      "year": 2008,
+      "month": 6,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 2008,
+      "month": 7,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
+    {
+      "year": 2008,
+      "month": 8,
+      "hits": 20,
+      "HR": 1,
+      "RBI": 3
+    },
+    {
+      "year": 2008,
+      "month": 9,
+      "hits": 0,
+      "HR": 0,
+      "RBI": 0
+    },
